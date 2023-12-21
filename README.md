@@ -38,3 +38,11 @@ VIM Learning
 - visual mode
     - press shift + v you can selection and you can use motion keys to move the section
     - control v will be select the bolos and like remove the line s
+- Registers
+    - when you press the dd for delete the line but its also copy to the clipboard when you next time paste it will bring the deleted line
+    - so we have registers we can store the values by press double quots a it will store the value in a register as we have 52 register all alphabets capital or small
+- Replace
+    - you can repalce the string wth following :s/old/new/g here g for global
+- Mark
+    - you can bookmark line and comeback again to this line by jump like this press ma m = mark and a = mark name you so moved to another line now you need to move back to this mark location you can press double quotes and mark name like a
+
