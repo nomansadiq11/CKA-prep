@@ -1,0 +1,25 @@
+
+- Before creating the cluster analyse the requirements
+    - Purpose
+        - Education
+        - Develpment
+        - hosting
+    - Cloud or OnPrem
+    - workloads
+        - how many
+        - what kind
+            - web
+            - big ddata
+        - Application resouces requirment
+            - CPU intensive
+            - memeory intensive
+        - Traffic
+            - Heavy traffic
+            - burst traffic
+
+- Education
+    - you can use minikube
+- development
+    - you can use cloud
+- on-prem
+    - you can use kubeadmin very importan 
