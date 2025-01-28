@@ -27,10 +27,13 @@ VIM Learning
     - d + w means delete the word
     - dd deleline the line
     - u = undu
+    - d$ this will dlete the line from staring from cursor
 - how to copy
     - y for copy
     - y + w coy the word
     - yy for copy the whole line
+    - copy the selection of the lines
+    - shift + V, select the lines with arrows, press y to copy then paste with p
 - change command
     - c for change
     - c + w change that current wor
@@ -45,4 +48,3 @@ VIM Learning
     - you can repalce the string wth following :s/old/new/g here g for global
 - Mark
     - you can bookmark line and comeback again to this line by jump like this press ma m = mark and a = mark name you so moved to another line now you need to move back to this mark location you can press double quotes and mark name like a
-
